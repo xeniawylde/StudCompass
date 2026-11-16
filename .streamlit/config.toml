@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#4A90E2" # Приятный синий цвет для кнопок
+backgroundColor="#F8F9FA" # Светло-серый фон (не белый, чтобы глаза не резало)
+secondaryBackgroundColor="#FFFFFF" # Белый для карточек
+textColor="#262730"
+font="sans-serif"
